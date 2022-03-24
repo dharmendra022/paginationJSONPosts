@@ -19,6 +19,7 @@ const PaginationMian = ({postPerPage,totalPost,paginate}) => {
             })}
 
         </ul>
+        <li></li>
       
     </nav>
   )
